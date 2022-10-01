@@ -11,7 +11,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30".
+I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - 🔭 I’m working as a Backend Engineer and specializing in building API and databases for applications.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-mohyor-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leonard-oduneye/)
